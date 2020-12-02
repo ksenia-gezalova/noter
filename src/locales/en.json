@@ -1,0 +1,44 @@
+{
+  "auth": {
+    "welcome": "Welcome to Noter!",
+    "about": "Create notes, store them and share your ideas with others!",
+    "registration": "Registration",
+    "login": "Login",
+    "loginForm": "Please enter your login and password to proceed",
+    "registerForm": "Register to use the application",
+    "name": "Your login",
+    "password": "Your password",
+    "requiredFields": "All fields are required",
+    "register": "Registration",
+    "createLogin": "Create your login",
+    "createPassword": "Create your password",
+    "passwordMinLen": "Min length for password 4 symbols",
+    "loginMaxLen": "Max length for login 10 symbols"
+  },
+
+  "note": {
+    "notesList": "List of notes",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at",
+    "create": "Create new note",
+    "share": "Share",
+    "edit": "Change",
+    "delete": "Delete",
+    "title": "Title",
+    "enterText": "Enter text here",
+    "empty": "You haven't added any notes yet",
+    "link": "Your link has been generated:",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "copyFailed": "Copy failed",
+    "myNote": "My notes"
+  },
+
+  "error": {
+    "notFound": "Data not found. It may have been deleted or you are navigating to the wrong address",
+    "forbidden": "Oops, it seems you are not registered or you do not have sufficient access rights",
+    "server": "Something went wrong on the server. Please try again later.",
+    "noServer": "Server is not available",
+    "badRequest": "Unable to complete the request with the specified data. Try other values."
+  }
+}
